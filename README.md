@@ -18,8 +18,3 @@ In my own time I build terminal tools in Rust and language-learning utilities, a
 ### 📊 Activity
 
 ![metrics](./github-metrics.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kodzonko/kodzonko/output/github-snake-dark.svg">
-  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/kodzonko/kodzonko/output/github-snake.svg">
-</picture>
