@@ -14,3 +14,8 @@ In my own time I build terminal tools in Rust and language-learning utilities, a
 ### 🧰 Stack
 
 [![stack](https://skillicons.dev/icons?i=py,fastapi,flask,gcp,docker,rust,go,ts,react,kotlin)](https://skillicons.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-languages-dark.svg">
+  <img alt="Most used languages" src="./github-languages-light.svg">
+</picture>
