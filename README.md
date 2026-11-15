@@ -14,7 +14,3 @@ In my own time I build terminal tools in Rust and language-learning utilities, a
 ### 🧰 Stack
 
 [![stack](https://skillicons.dev/icons?i=py,fastapi,flask,gcp,docker,rust,go,ts,react,kotlin)](https://skillicons.dev)
-
-### 📊 Activity
-
-![metrics](./github-metrics.svg)
