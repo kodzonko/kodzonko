@@ -13,7 +13,7 @@ In my own time I build handy terminal tools, mobile apps for iOS, experiment wit
 
 ### 🧰 Stack
 
-[![stack](https://skillicons.dev/icons?i=py,fastapi,flask,gcp,docker,rust,go,ts,react,kotlin)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=py,fastapi,django,aws,docker,rust,go,ts,react)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-languages-dark.svg">

@@ -5,7 +5,17 @@ import sys
 from collections import Counter
 from html import escape
 
-IGNORED = {"batchfile", "css", "dockerfile", "hcl", "html", "makefile", "powershell", "scss", "shell"}
+IGNORED = {
+    "batchfile",
+    "css",
+    "dockerfile",
+    "hcl",
+    "html",
+    "makefile",
+    "powershell",
+    "scss",
+    "shell",
+}
 LIMIT = 8
 WIDTH = 480
 ROW = 22
