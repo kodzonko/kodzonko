@@ -1,15 +1,15 @@
 ## Hi, I'm Jan 👋
 
-Python developer from Łódź, Poland, working on backends with **FastAPI, Flask and GCP**.
-In my own time I build terminal tools in Rust and language-learning utilities, and I'm learning mobile development (React Native, Android).
+Python developer from Poland, working on backends with **FastAPI, Django and AWS**.
+In my own time I build handy terminal tools, mobile apps for iOS, experiment with AI workflows and try out new programming languages.
 
-### 🔨 Things I've built
+### 🔨 Some of the things I've built
 
-| | |
-|---|---|
-| 🎬 **[quick-repertoire](https://github.com/kodzonko/quick-repertoire)** | Cinema City, Helios & Multikino showtimes in your terminal, with TMDB ratings · Rust |
-| 🎧 **[anyaudiobook](https://github.com/kodzonko/anyaudiobook)** | Turn any ebook into an audiobook with Edge TTS · Python |
-| 🔐 **[SDEx communicator](https://github.com/kodzonko/SDEx-encrypted-communicator)** | Mobile messenger with SDEx encryption and BLAKE3 hashing · TypeScript |
+|                                                                                    |                                                                                         |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 🎬 **[quick-repertoire](https://github.com/kodzonko/quick-repertoire)**             | Cinema City, Helios & Multikino showtimes in your terminal, with TMDB ratings · Rust    |
+| 🎧 **[anyaudiobook](https://github.com/kodzonko/anyaudiobook)**                     | Turn any ebook into an audiobook with Edge TTS · Python                                 |
+| 🔐 **[SDEx communicator](https://github.com/kodzonko/SDEx-encrypted-communicator)** | Mobile messenger with SDEx encryption and BLAKE3 hashing (bachelor thesis) · TypeScript |
 
 ### 🧰 Stack
 
